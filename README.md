@@ -1,5 +1,5 @@
 
-<div align="center">## Hi there 👋, I'm Tsering Wolfe</div>
+#<div align="center">Hi there 👋, I'm Tsering Wolfe</div>
 
 <p align="center">I'm a Computer Science student at UC Davis, but I'm typically based in Los Angeles!</p>
 
