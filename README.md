@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Tsering Wolfe
 
-#I'm a Computer Science student at UC Davis, but I'm typically based in Los Angeles!
+<p align="center">I'm a Computer Science student at UC Davis, but I'm typically based in Los Angeles!</p>
+
 
 
 <!--
