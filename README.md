@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Tsering Wolfe
+<p align="center">## Hi there 👋, I'm Tsering Wolfe</p>
 
 <p align="center">I'm a Computer Science student at UC Davis, but I'm typically based in Los Angeles!</p>
 
