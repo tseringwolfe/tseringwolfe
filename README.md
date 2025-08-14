@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Tsering Wolfe</h1>
 <h3 align="center">A Computer Science student from Los Angeles, CA</h3>
 
-- 🔭 I’m currently working on [AI Chatbot Game App](https://github.com/Snap-Engineering-Academy-2025/snapchatbots-tsering)
+- 🔭 I’m currently working on [Snapchat Reimagining Communities feature](https://github.com/tseringwolfe/2025-Snap-InclusiveIdentity)
 
 - 🌱 I’m currently learning **React, and React Native at Snap Engineering Academies!**
 
