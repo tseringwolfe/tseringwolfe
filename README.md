@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Tsering Wolfe</h1>
 <h3 align="center">A Computer Science student from Los Angeles, CA</h3>
 
-- 🔭 I most recently worked on [ASUCD The Pantry Recipe Finder](https://github.com/gabe-ven/SacHacks-VII?tab=readme-ov-file#the-pantry-at-asucd--recipe-finder)
+- 🔭 I most recently worked on [ASUCD The Pantry Recipe Finder](https://github.com/gabe-ven/SacHacks-VII?tab=readme-ov-file#the-pantry-at-asucd--recipe-finder) at SacHacks VII.
 
 - 🌱 I’m currently learning **Algorithms Analysis and Computer Architecture at UC Davis!**
 
